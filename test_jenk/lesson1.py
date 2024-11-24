@@ -5,6 +5,7 @@ from selene.support.shared import browser
 from selene.support.shared.jquery_style import s
 from selene import Config, by, be
 from selenium import webdriver
+import pytest
 
 options = webdriver.ChromeOptions()
 options.add_argument('--start-maximized')  # Открыть в максимальном размере
