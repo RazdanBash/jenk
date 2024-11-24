@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb357a7-a969-40f9-b143-f97256059350" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/sd/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sd/lesson1.py" afterDir="false" />
-    </list>
+    <list default="true" id="bfb357a7-a969-40f9-b143-f97256059350" name="Changes" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for lesson1.test_br.executor": "Run",
     "Python tests.Python tests in lesson1.py.executor": "Run",
     "Python.lesson1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -60,6 +59,28 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Razdan\PycharmProjects\qagurupractice\sd" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_jenk.test_lesson.test_br" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="qagurupractice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_jenk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_jenk.test_lesson.test_br&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_jenk.test_lesson.test_br" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -85,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732489266446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1732490192178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732490192178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
